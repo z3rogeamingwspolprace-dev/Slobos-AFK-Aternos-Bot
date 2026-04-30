@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "paczekfn2.aternos.me:25317",
+    "ip": "paczekfn2.aternos.me",
     "port": 25317,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
