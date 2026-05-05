@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -69,7 +69,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
+    "pick-up-day": false,
     "place-night": true
   },
   "discord": {
